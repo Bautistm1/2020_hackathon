@@ -1,5 +1,8 @@
 # 2020 Hackathon
 
+Testing Maribel's project: 
+I created an adventure text game that is essentially a quiz about Mt.Shasta and its legends. Each player will have 5 lives, you will lose a life for each wrong answer. If you are able to answer each question correctly you are a LEMURIAN LEGEND! To run the program, please run it in the main method.
+
 > **Date**: Saturday, April 4th, 2020
 >
 > **Time**: 9:00am - 4:00pm PDT
